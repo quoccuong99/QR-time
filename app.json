@@ -1,0 +1,12 @@
+{
+  "name": "QR-time",
+  "displayName": "QR-time",
+  "expo": {
+    "name": "QR-time",
+    "slug": "QR-time",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
